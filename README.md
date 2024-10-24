@@ -1,12 +1,15 @@
-- 👋 Hi, I’m @eSlimKorea
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# eSlimKorea
 
-<!---
-eSlimKorea/eSlimKorea is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![eSlimKorea Logo](http://www.eslim.co.kr/wp-content/uploads/2019/02/logo.png)
+
+Welcome to the official GitHub of **eSlimKorea**, a leading server distribution and AI hardware solutions provider with over 22 years of experience. We specialize in high-performance server solutions, tailored technical support, and efficient installation services to meet your business needs.
+
+## 🌐 Website
+Visit our [official website](http://www.eslim.co.kr) for more information.
+
+## 📧 Contact
+For any inquiries or support, please reach out through our website.
+
+---
+
+Thank you for visiting our GitHub repository. We look forward to collaborating with you!
