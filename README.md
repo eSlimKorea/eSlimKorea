@@ -8,7 +8,7 @@ Welcome to the official GitHub of **eSlimKorea**, a leading server distribution 
 Visit our [official website](http://www.eslim.co.kr) for more information.
 
 ## 📧 Contact
-For any inquiries or support, please reach out through our website.
+For any inquiries or support, please reach out through tech@eslim.co.kr
 
 ---
 
